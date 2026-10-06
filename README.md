@@ -19,7 +19,8 @@ Each lecture contains:
 | Lec-01 | HTML Basics, Video Element | ✅ Completed |
 | Lec-02 | HTML + CSS + JavaScript Connection | ✅ Completed |
 | Lec-03 | HTML Structure and Comments | ✅ Completed |
-| Lec-04 | Coming Soon | ⏳ Pending |
+Lec-04 | Headings, Paragraphs, Links, Attributes, CSS | ✅ Completed
+| Lec-05 | Coming Soon | ⏳ Pending |
 
 ## 🛠️ Technologies
 
