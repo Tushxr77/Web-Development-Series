@@ -21,7 +21,8 @@ Each lecture contains:
 | Lec-03 | HTML Structure and Comments | ✅ Completed |
 | Lec-04 | Headings, Paragraphs, Links, Attributes, CSS | ✅ Completed |
 | Lec-05 | Image,List,table | ✅ Completed |
-| Lec-06 | Coming Soon | ⏳ Pending |
+| Lec-06 | SEO, Core Web Vitals (CLS, FID), Lighthouse | ✅ Completed |
+| Lec-07 | Coming Soon | ⏳ Pending |
 
 ## 🛠️ Technologies
 
