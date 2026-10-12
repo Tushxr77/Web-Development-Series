@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMS</title>
+</head>
+<!--LINK THE STYLE.CSS-->
+<link rel="stylesheet" href="style.css">
+<body>
+    <!--HADING FOR THE FORM PAGE-->
+    <h1> FORM TO APPLY IN CLG</h1>
+    <!--CREATION OF THE FPRM PAGE-->
+    <form action ="post"><!--POST-> FOR THE HIGH AMOUNT OF DATA-->
+        <div>
+            <!--ASKING FOR THE DETIALS-->
+        <lable for="username">ENTER YOUR USERNAME</lable>
+        <input type="text" id ="username" name="username" placeholder="Enter Your Name">
+        <br>
+        <label for="password">ENTER YOUR PASSWORD</label>
+        <input type="password" id ="password" name="password" placeholder="Enter Your password">
+            </div>
+        <div>
+            <!--USING THE RADIO-->
+            <input type="radio" id="Male" name="gender" value="male">
+            <label for="male">MALE</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">FEMALE</label>
+        </div>
+        <div>
+            <!--USING OF CHECKBOX-->
+            <input type="checkbox" id="subscribe" name="subscribe" value="yes">
+            <label for="subscribe">SUBSCRIBE TO NEWSLETTER</label>
+        </div>
+
+    <div>
+        <!--USING OF THE TEXTAREA-->
+        <label for="comment">ENETER YOUR COMMENT</label>
+        <br>
+        <textarea name="comment" rows="10" cols="50">
+            Enter Your Comment Here......
+        </textarea>
+    </div>
+    <DIV>
+        <!--USINF FOR THE SELECT TAG-->
+         <select name ="fruits">
+            <option value="apple">Apple</option>
+            <option value="banana">BANANA</option>
+            <option value="cherry">CHERRY</option>
+         </select>
+    </DIV>
+    </form>
+</body>
+</html>
