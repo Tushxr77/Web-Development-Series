@@ -1,0 +1,13 @@
+body {
+    background-color: skyblue;
+    color: rgb(13, 13, 14);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+input, textarea, select, button {
+    margin-top: 5px;
+}
