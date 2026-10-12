@@ -22,7 +22,9 @@ Each lecture contains:
 | Lec-04 | Headings, Paragraphs, Links, Attributes, CSS | ✅ Completed |
 | Lec-05 | Image,List,table | ✅ Completed |
 | Lec-06 | SEO, Core Web Vitals (CLS, FID), Lighthouse | ✅ Completed |
-| Lec-07 | Coming Soon | ⏳ Pending |
+| Lec-07 | HTML Forms and Input Elements | ✅ Completed |
+| Lec-08 | Inline and Block Elements | ✅ Completed |
+| Lec-09 | Coming Soon | ⏳ Pending |
 
 ## 🛠️ Technologies
 
